@@ -1,0 +1,5 @@
+{
+  "url": "https://your-backend-url.com",
+  "interval": 60,
+  "alert": "email@example.com"
+}

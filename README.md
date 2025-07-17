@@ -1,5 +1,29 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19953107&assignment_repo_type=AssignmentRepo)
-# Deployment and DevOps for MERN Applications
+
+
+# 🚀 Week 7 MERN Deployment Assignment
+
+
+## 📦 Deployment Steps
+1. Backend deployed to Render using GitHub Actions
+2. Frontend deployed to Vercel using GitHub Actions
+3. CI/CD pipelines configured in `.github/workflows/`
+4. Monitoring set up with UptimeRobot and Sentry
+
+## 📁 Environment Variables
+See `.env.example` for required variables
+
+## 🛠️ Technologies Used
+- MongoDB Atlas
+- Express.js
+- React
+- Node.js
+- GitHub Actions
+- Render / Railway / Heroku
+- Vercel / Netlify / GitHub Pages
+- UptimeRobot / Sentry
+----------------
+
+
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
 
